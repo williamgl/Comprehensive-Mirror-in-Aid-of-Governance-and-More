@@ -5,7 +5,8 @@ Reference
 4. 资治通鉴（电子版）link: http://www.guoxue.com/shibu/zztj/zztjml.htm
 5. 资治通鉴（电子版）link: https://www.guwendao.net/guwen/book_b30d262ad60d.aspx
 6. 中国哲学书电子化计划： https://ctext.org/zhs
-7. TBA
+7. 读通鉴：https://www.dutongjian.com/
+8. TBA
 
 重要参考数据记录所属文件：
 1. 关于武王伐纣定鼎中原的时间是公元前1122年还是公元前1046年的讨论：379 BCE 周安王二十三年（壬寅）
